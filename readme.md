@@ -1,3 +1,8 @@
+# linuxjoymap
+  
+Originally forked from: https://sourceforge.net/projects/linuxjoymap/ under GPLv2
+
+## Instructions
 1) Make sure that the module uinput is loaded,
      I have
         rmmod ehci_hcd
